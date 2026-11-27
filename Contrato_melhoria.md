@@ -32,8 +32,8 @@
 | **Líder do Projeto (Belt)** | Anderson Pereira Miranda Soares (Analista de Operações) |
 | **Sponsor / Champion** | Gerente Industrial / Diretor de Operações |
 | **Área / Processo Alvo** | Manufatura Industrial — Linha de Produção 01 (Turnos A, B e C) |
-| **Data de Abertura** | 26/11/2026 |
-| **Prazo Previsto** | 6 meses (24 semanas) — Previsão de encerramento: Maio/2027 |
+| **Data de Abertura** | 01/09/2026 |
+| **Prazo Previsto** | 6 meses (24 semanas) |
 | **Status Atual** | Fase Define (Em aprovação para Tollgate 1) |
 
 ---
