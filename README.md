@@ -9,7 +9,7 @@ Projeto completo de melhoria contínua e análise de dados industriais voltado p
 
 ---
 
-## 🎯 Resumo Executivo
+## 🎯 Resumo 
 
 - **Problema:** A Linha de Produção 01 operou por 6 meses com **OEE médio de 54%** (meta: ≥ 75%), derrubando o **OTIF para 82%** e exigindo turnos extras recorrentes aos finais de semana.
 - **Abordagem:** Diagnóstico baseado em dados (VSM, MSA, Pareto, Boxplot, ANOVA e Regressão), seguido de contramedidas Lean (SMED e Manutenção Autônoma) validadas por testes de hipótese e controladas via CEP.
